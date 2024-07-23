@@ -28,17 +28,11 @@ This food delivery app was created using the MERN stack and allows users to easi
 - TailwindCSS
 - REST API
 
-  ## Project Structure
-my-fullstack-project/
-├── client/         # Frontend code
-├── server/         # Backend code
-└── README.md       # This file
 
 ## Getting Started
 1. Clone the Repository
 sh
-Copy code
-git clone https://github.com/your-username/your-repo.git
+Copy code -git clone https://github.com/your-username/your-repo.git
 cd your-repo
 
 2. Set Up the Backend
@@ -46,8 +40,8 @@ Navigate to the server directory:
 sh
 Copy code
 cd server
-Install Backend Dependencies:
 
+Install Backend Dependencies:
 If you are using npm:
 sh
 Copy code
